@@ -120,6 +120,7 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * [Node.js Manual & Documentation](https://github.com/zeMirco/nodejs-pdf-docs)
 * [uvbook](http://nikhilm.github.io/uvbook/)
 * [Full Stack Web Development with Backbone.js](http://pipefishbook.com/references) by Patrick Mulder
+* [Einführung in node.js 4.0](http://www.amazon.de/dp/1517211336) by Jörg Krause, in Deutsch
 
 # PPT
 In the PPT folder.
